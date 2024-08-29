@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "obsidian-sanity-check",
+	"name": "Sanity Check",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
+	"description": "Performs sanity checks on your Obsidian notes.",
+	"author": "Your Name",
+	"authorUrl": "https://pt.plus",
 	"fundingUrl": "https://obsidian.md/pricing",
 	"isDesktopOnly": false
 }
